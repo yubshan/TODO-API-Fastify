@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": 369758,
+    "todo": "Todo 1",
+    "status": "pending"
+  },
+  {
+    "id": 820920,
+    "todo": "Todo 2",
+    "status": "pending"
+  },
+  {
+    "id": 305222,
+    "todo": "Todo 3",
+    "status": "pending"
+  }
+]

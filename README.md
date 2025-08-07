@@ -20,17 +20,19 @@ A simple REST API for managing todos, built with fastify and Node.js. Data is st
 
 1. Clone the repo
 
-'''bash 
-git clone 
+```bash
+git clone https://github.com/yubshan/TODO-API-Fastify.git
+cd TODO-API-Fastify
+```
 
 2. Install dependencies 
 
-npm install
+`npm install`
 
 
 3. Run the app
 
-node start
+`node start`
 
 The server will run on http://localhost:5000
 
